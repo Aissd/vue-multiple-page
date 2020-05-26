@@ -21,3 +21,68 @@
 .cursor-pointer { cursor: pointer; }
 
 .text-underline { text-decoration: underline; }
+
+/* ============================================================
+   flex：定义布局为盒模型
+   flex-v：盒模型垂直布局
+   flex-1：子元素占据剩余的空间
+   flex-align-center：子元素垂直居中
+   flex-pack-center：子元素水平居中
+   flex-pack-justify：子元素两端对齐
+       兼容性：ios 4+、android 2.3+、winphone8+
+   ============================================================ */
+.flex {
+	display: flex;
+}
+
+.flex-v {
+	flex-direction: column;
+}
+
+.flex-r {
+	flex-direction: row;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.flex-nowrap {
+	flex-wrap: nowrap;
+}
+
+.flex-1 {
+	flex: 1;
+}
+
+.flex-2 {
+	flex: 2;
+}
+
+.flex-25p {
+	flex: 0 1 25%;
+}
+
+.flex-33p {
+	flex: 0 1 33%;
+}
+
+.flex-34p {
+	flex: 0 1 34%;
+}
+
+.flex-align-center {
+	align-items: center;
+}
+
+.flex-pack-center {
+	justify-content: center;
+}
+
+.flex-pack-between {
+	justify-content: space-between;
+}
+
+.flex-pack-end {
+	justify-content: flex-end;
+}

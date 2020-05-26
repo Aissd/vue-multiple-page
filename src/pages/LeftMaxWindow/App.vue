@@ -1,11 +1,11 @@
 <template>
 	<div id="LeftMaxWindow">
-		App LeftMaxWindow
+		LeftMaxWindow
 	</div>
 </template>
 
 <script>
-export default {
-	name: "LeftMaxWindow"
-};
+	export default {
+		name: "LeftMaxWindow"
+	};
 </script>

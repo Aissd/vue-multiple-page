@@ -1,5 +1,8 @@
 # multip-page
 
+# 蓝湖地址
+https://lanhuapp.com/url/PJ3Fb-vypqj
+
 # 访问地址
 # 左侧大弹窗
 http://localhost:8888/LeftMaxWindow.html

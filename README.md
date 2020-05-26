@@ -1,24 +1,20 @@
-# activity
+# multip-page
 
-## Project setup
-```
-npm install
-```
+# 访问地址
+# 左侧大弹窗
+http://localhost:8888/LeftMaxWindow.html
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 右侧大弹窗
+ http://localhost:8888/RightMaxWindow.html
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# 中间大弹窗
+http://localhost:8888/CenterMaxWindow.html
 
-### Lints and fixes files
-```
-npm run lint
-```
+# 中间中弹窗
+http://localhost:8888/CenterMiddleWindow.html
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 中间小弹窗
+http://localhost:8888/CenterMinWindow.html
+
+# 中间三维地图某一点的小弹窗
+http://localhost:8888/CenterMinWindowEX.html
